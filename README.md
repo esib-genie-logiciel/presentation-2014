@@ -35,7 +35,7 @@ Il faut donner un nom à la repository. Les champs qui restent sont optionnels. 
 
 ![image](images/nouvelleRepository.png)
 
-### 3- La 3ème étape consiste à initialiser la repository et à jouter des fichiers.
+### 3- La 3ème étape consiste à télecharger une copie de la repository.
 Github nous donne la URL de la repository pour pouvoir y accéder.
 
 ![image](images/urlRepository.png)
